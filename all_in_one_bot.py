@@ -1,4 +1,3 @@
-# all_in_one_bot.py
 import os
 import telebot
 import time
